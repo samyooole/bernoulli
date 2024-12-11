@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterestRateOptimizer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e710a26ffe16e97e9b9dc5de3cba4d377cb075ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7585024348bb8fcbd429cc614dd715c2e05258a")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterestRateOptimizer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterestRateOptimizer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
